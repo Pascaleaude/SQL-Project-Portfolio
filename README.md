@@ -74,13 +74,9 @@ ORDER BY EstimatedBudgetAllocation DESC;
 3. Although we do not have a gender column, when the employee IDs were grouped by job title I noticed a discrepancy in salary based on genders for some job titles. For examples for firefighters
 4. Sectors like public safety, health and social services were allocated a more significant amount of money than other sectors.
 
-### Recomendations
-
-
 ### Limitations 
 
 - No gender column
-- 
 
 
 
